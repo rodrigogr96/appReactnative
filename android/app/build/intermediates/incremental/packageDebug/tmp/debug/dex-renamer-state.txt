@@ -1,0 +1,4 @@
+#Wed Oct 16 21:20:02 PET 2019
+base.0=/Users/vassperu/Desktop/appreact/appReactnative/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
