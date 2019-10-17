@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vassperu/Desktop/crud/crud/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
+            "outputFile": "/Users/vassperu/Desktop/appreact/appReactnative/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
             "map": [
                 {
                     "source": "/Users/vassperu/.gradle/caches/transforms-2/files-2.1/dd77f73f999bcc3a8444343790ba51b0/res/values-pl/values-pl.xml",

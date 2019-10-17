@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vassperu/Desktop/crud/crud/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/vassperu/Desktop/appreact/appReactnative/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
                     "source": "/Users/vassperu/.gradle/caches/transforms-2/files-2.1/fbd7b4dddc43287bcbe44cd487a2f8dc/res/values-land/values-land.xml",
