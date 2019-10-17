@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/44fe6ed0cab80ae526c0c5e83c15a7e0/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/52ccc621bef5b58a8fef8c87a6573d7e/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/fbd7b4dddc43287bcbe44cd487a2f8dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/efd712062fd8a0cbd6510bf330454e30/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/305e20f033c083a12378b97c125ab01b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/142729834bc3932088b204383fd6f3f1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/1879339e4a428aec24a01e03138faaee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/0dfb1e92f84a24b4d5df91e56149decc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/04fad3cfa699de345faba3bb0c0ce499/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/3a1e6c350438f767348d152ba389cb5b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/d89a78490e2f741a98559637f8ce52af/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/d8b23ad02444d91972d3da8e93089975/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/376feda82d41fa90d5c2e9498bd9a632/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/bac14a3dcf17cd023921f28fbf94fe5f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/b7ac450605fe0f10db24bd2a9d73fa25/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/430ee8ac5eb826183c76195c61b68d30/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/1291355b2d4b73e833fc4564b9d5c13f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/9f111ef8e01c32a9917544d3b3633af2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/032439d84036b610729e0ef4d15b644b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/b5eedd70a510d391800a00d8dceacdaf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/dfdca2e2b687028854d2d6189a5fb38c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/4770a71a53fe987af2bf1d5f418efdd7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/d58f18906723d8dc189fa7e2d3d09a05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/116daa7c52389a6d0d67c78cd8f6aa78/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/dd77f73f999bcc3a8444343790ba51b0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/c36cb6e04552b89b7b5f1bb72bfa106f/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/82998dfc852478a886c8cd97e277759b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/3250ce9d441c188cd8f0d16e40f10b44/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/842f6633dfcd06d0b0addaaf9366b21b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/fc9ceab48c0337d538faa3bad70ffbd0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/8acb7150424657e915f433b488176c6d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/d673292b46fc6a0e1a3d03a06c5afd0e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/c4eabedbba8f6a0add1b79ea23d35e65/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/ccb90cb9865c6eacf8229c750b4e81d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/7d2120ee468b150cb0f395ed32a1557e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/9dcdb3afdb75e9a472730bdfdfced9e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/30c5938f1b4e5f2263bc14a9a81c033c/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:2:3-21
+		INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/44fe6ed0cab80ae526c0c5e83c15a7e0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/44fe6ed0cab80ae526c0c5e83c15a7e0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/d89a78490e2f741a98559637f8ce52af/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/d89a78490e2f741a98559637f8ce52af/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/dd77f73f999bcc3a8444343790ba51b0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/dd77f73f999bcc3a8444343790ba51b0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/c36cb6e04552b89b7b5f1bb72bfa106f/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/c36cb6e04552b89b7b5f1bb72bfa106f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/dd77f73f999bcc3a8444343790ba51b0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.crud.MainActivity
+ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/44fe6ed0cab80ae526c0c5e83c15a7e0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/44fe6ed0cab80ae526c0c5e83c15a7e0/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/52ccc621bef5b58a8fef8c87a6573d7e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/52ccc621bef5b58a8fef8c87a6573d7e/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/fbd7b4dddc43287bcbe44cd487a2f8dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/fbd7b4dddc43287bcbe44cd487a2f8dc/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/efd712062fd8a0cbd6510bf330454e30/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/efd712062fd8a0cbd6510bf330454e30/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/305e20f033c083a12378b97c125ab01b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/305e20f033c083a12378b97c125ab01b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/142729834bc3932088b204383fd6f3f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/142729834bc3932088b204383fd6f3f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/1879339e4a428aec24a01e03138faaee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/1879339e4a428aec24a01e03138faaee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/0dfb1e92f84a24b4d5df91e56149decc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/0dfb1e92f84a24b4d5df91e56149decc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/04fad3cfa699de345faba3bb0c0ce499/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/04fad3cfa699de345faba3bb0c0ce499/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/3a1e6c350438f767348d152ba389cb5b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/3a1e6c350438f767348d152ba389cb5b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/d89a78490e2f741a98559637f8ce52af/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/d89a78490e2f741a98559637f8ce52af/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/d8b23ad02444d91972d3da8e93089975/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/d8b23ad02444d91972d3da8e93089975/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/376feda82d41fa90d5c2e9498bd9a632/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/376feda82d41fa90d5c2e9498bd9a632/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/bac14a3dcf17cd023921f28fbf94fe5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/bac14a3dcf17cd023921f28fbf94fe5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/b7ac450605fe0f10db24bd2a9d73fa25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/b7ac450605fe0f10db24bd2a9d73fa25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/430ee8ac5eb826183c76195c61b68d30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/430ee8ac5eb826183c76195c61b68d30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/1291355b2d4b73e833fc4564b9d5c13f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/1291355b2d4b73e833fc4564b9d5c13f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/9f111ef8e01c32a9917544d3b3633af2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/9f111ef8e01c32a9917544d3b3633af2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/032439d84036b610729e0ef4d15b644b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/032439d84036b610729e0ef4d15b644b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/b5eedd70a510d391800a00d8dceacdaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/b5eedd70a510d391800a00d8dceacdaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/dfdca2e2b687028854d2d6189a5fb38c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/dfdca2e2b687028854d2d6189a5fb38c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/4770a71a53fe987af2bf1d5f418efdd7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/4770a71a53fe987af2bf1d5f418efdd7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/d58f18906723d8dc189fa7e2d3d09a05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/d58f18906723d8dc189fa7e2d3d09a05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/116daa7c52389a6d0d67c78cd8f6aa78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/116daa7c52389a6d0d67c78cd8f6aa78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/dd77f73f999bcc3a8444343790ba51b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/dd77f73f999bcc3a8444343790ba51b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/c36cb6e04552b89b7b5f1bb72bfa106f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/c36cb6e04552b89b7b5f1bb72bfa106f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/82998dfc852478a886c8cd97e277759b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/82998dfc852478a886c8cd97e277759b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/3250ce9d441c188cd8f0d16e40f10b44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/3250ce9d441c188cd8f0d16e40f10b44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/842f6633dfcd06d0b0addaaf9366b21b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/842f6633dfcd06d0b0addaaf9366b21b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/fc9ceab48c0337d538faa3bad70ffbd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/fc9ceab48c0337d538faa3bad70ffbd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/8acb7150424657e915f433b488176c6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/8acb7150424657e915f433b488176c6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/d673292b46fc6a0e1a3d03a06c5afd0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/d673292b46fc6a0e1a3d03a06c5afd0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/c4eabedbba8f6a0add1b79ea23d35e65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/c4eabedbba8f6a0add1b79ea23d35e65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/ccb90cb9865c6eacf8229c750b4e81d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/ccb90cb9865c6eacf8229c750b4e81d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/7d2120ee468b150cb0f395ed32a1557e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/7d2120ee468b150cb0f395ed32a1557e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/9dcdb3afdb75e9a472730bdfdfced9e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/9dcdb3afdb75e9a472730bdfdfced9e5/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/30c5938f1b4e5f2263bc14a9a81c033c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vassperu/.gradle/caches/transforms-2/files-2.1/30c5938f1b4e5f2263bc14a9a81c033c/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vassperu/Desktop/crud/crud/android/app/src/main/AndroidManifest.xml
